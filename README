@@ -1,0 +1,6 @@
+jMediaHash is a java library for creating content-based hashes of images, video and sound files.
+
+Currently implemented are DCT-based hashes of images, which are resistant to recompression, format shifting and tolerate some degree of scaling and local edits.
+
+TODO: video, audio
+TODO: radial image hash
