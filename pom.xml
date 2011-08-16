@@ -10,9 +10,9 @@
     <packaging>pom</packaging>
     <name>jMediaHash Parent</name>
 
-    <description>TODO: description</description>
+    <description>Java algorithms for content-based fingerprinting of images</description>
 
-    <url>TODO: url</url>
+    <url>https://github.com/bcolyn/jmediahash</url>
 
     <licenses>
         <license>
@@ -23,8 +23,8 @@
     </licenses>
 
     <scm>
-        <url>TODO:</url>
-        <connection>TODO:</connection>
+        <url>scm:git://github.com/bcolyn/jmediahash.git</url>
+        <connection>scm:git://github.com/bcolyn/jmediahash.git</connection>
     </scm>
 
     <modules>
